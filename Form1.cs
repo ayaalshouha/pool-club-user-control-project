@@ -16,20 +16,12 @@ namespace Pool_Club_UserControl_Project
         {
             InitializeComponent();
         }
-
         private void poolTable1_OnTableCompleted(object sender, PoolTable.PoolTableEventArgs e)
         {
-
-            MessageBox.Show($@"Game Completed! Time Consumed = {e.TimeConsumed} , Total Seconed = {e.TotalSecond}, Hourly Rate = {e.HourlyRate} and Total Fees = {e.TotalFees}. :-)", "Message Box", MessageBoxButtons.OK,
-                MessageBoxIcon.Information); 
+            PoolTable poolTable = (PoolTable)sender;
+            string TableTitle = poolTable.TableTitle;
+            CustomMesssageBoxForm form = new CustomMesssageBoxForm(e.TimeConsumed, e.TotalSecond, e.HourlyRate, e.TotalFees, TableTitle); 
+            form.ShowDialog();
         }
-
-        private void poolTable2_OnTableCompleted(object sender, PoolTable.PoolTableEventArgs e)
-        {
-            MessageBox.Show($@"Game Completed! Time Consumed = {e.TimeConsumed} , Total Seconed = {e.TotalSecond}, Hourly Rate = {e.HourlyRate} and Total Fees = {e.TotalFees}. :-)", "Message Box", MessageBoxButtons.OK,
-                MessageBoxIcon.Information);
-        }
-
-        
     }
 }

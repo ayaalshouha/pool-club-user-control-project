@@ -9,3 +9,4 @@ C:\Users\lenovo\Desktop\Coding\.NET Projects\Pool Club UserControl Project\obj\D
 C:\Users\lenovo\Desktop\Coding\.NET Projects\Pool Club UserControl Project\obj\Debug\Pool Club UserControl Project.exe
 C:\Users\lenovo\Desktop\Coding\.NET Projects\Pool Club UserControl Project\obj\Debug\Pool Club UserControl Project.pdb
 C:\Users\lenovo\Desktop\Coding\.NET Projects\Pool Club UserControl Project\obj\Debug\Pool_Club_UserControl_Project.Form1.resources
+C:\Users\lenovo\Desktop\Coding\.NET Projects\Pool Club UserControl Project\obj\Debug\Pool_Club_UserControl_Project.CustomMesssageBoxForm.resources
