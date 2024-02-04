@@ -133,11 +133,25 @@ namespace Pool_Club_UserControl_Project
         }
         private void btnEnd_Click(object sender, EventArgs e)
         {
+            if(TotalSecond == 0)
+                return; 
+
+
             tableTimer.Enabled = false; 
             TimeConsumed = getFormattedTime(TotalSecond);
             TotalFees = HourlyRate * (TotalSecond / 3600); 
             RaiseTableCompleted();
             _RefreshTable(); 
+        }
+
+        private void contextMenuStrip1_Opening(object sender, CancelEventArgs e)
+        {
+
+        }
+
+        private void toolStripMenuItem1_TextChanged(object sender, EventArgs e)
+        {
+            lblPlayerName.Text = toolStripMenuItem1.Text; 
         }
     }
 }
