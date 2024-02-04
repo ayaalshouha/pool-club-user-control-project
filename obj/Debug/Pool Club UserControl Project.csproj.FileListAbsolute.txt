@@ -1,0 +1,11 @@
+C:\Users\lenovo\Desktop\Coding\.NET Projects\Pool Club UserControl Project\bin\Debug\Pool Club UserControl Project.exe.config
+C:\Users\lenovo\Desktop\Coding\.NET Projects\Pool Club UserControl Project\bin\Debug\Pool Club UserControl Project.exe
+C:\Users\lenovo\Desktop\Coding\.NET Projects\Pool Club UserControl Project\bin\Debug\Pool Club UserControl Project.pdb
+C:\Users\lenovo\Desktop\Coding\.NET Projects\Pool Club UserControl Project\obj\Debug\Pool Club UserControl Project.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\Coding\.NET Projects\Pool Club UserControl Project\obj\Debug\Pool_Club_UserControl_Project.PoolTable.resources
+C:\Users\lenovo\Desktop\Coding\.NET Projects\Pool Club UserControl Project\obj\Debug\Pool_Club_UserControl_Project.Properties.Resources.resources
+C:\Users\lenovo\Desktop\Coding\.NET Projects\Pool Club UserControl Project\obj\Debug\Pool Club UserControl Project.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\Coding\.NET Projects\Pool Club UserControl Project\obj\Debug\Pool Club UserControl Project.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\Coding\.NET Projects\Pool Club UserControl Project\obj\Debug\Pool Club UserControl Project.exe
+C:\Users\lenovo\Desktop\Coding\.NET Projects\Pool Club UserControl Project\obj\Debug\Pool Club UserControl Project.pdb
+C:\Users\lenovo\Desktop\Coding\.NET Projects\Pool Club UserControl Project\obj\Debug\Pool_Club_UserControl_Project.Form1.resources

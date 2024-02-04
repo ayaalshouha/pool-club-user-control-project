@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34408.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pool Club UserControl Project", "Pool Club UserControl Project.csproj", "{BF60AD6A-7923-46AE-A568-C6B0B6D1366F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF60AD6A-7923-46AE-A568-C6B0B6D1366F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF60AD6A-7923-46AE-A568-C6B0B6D1366F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF60AD6A-7923-46AE-A568-C6B0B6D1366F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF60AD6A-7923-46AE-A568-C6B0B6D1366F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F9B45384-4467-4B65-B391-FC64977E277C}
+	EndGlobalSection
+EndGlobal
